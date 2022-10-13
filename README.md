@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michal Kočer teacher from Gymji
+- 👋 Hi, I’m Michal Kočer teacher from Jírovcovka a.k.a. Gymji
 - 👀 Python, C, C++, PHP, SQL, HTML, (La)TeX, Wiring, Javascript
 - 🌱 Typescript, Go
 - 📫 Google Me
